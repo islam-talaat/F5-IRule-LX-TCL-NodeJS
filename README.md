@@ -7,3 +7,6 @@ the irule LX is an impressive feature that we can use to redirect the payload of
 using NodeJS we can change the RD bit to be One and redirect the packet again to the IRule
 
 Note: the F5 support Created an Engineering Hotfix to fix the bug in the traditional IRule but i enjoyed the journey and discovered a new Feature in my beloved BIG-IP :)
+Traditional IRule bugs :
+https://cdn.f5.com/product/bugtracker/ID872037.html
+https://cdn.f5.com/product/bugtracker/ID874221.html
